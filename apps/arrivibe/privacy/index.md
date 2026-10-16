@@ -78,6 +78,6 @@ permalink: /apps/arrivibe/privacy/
 
 サポート窓口: tsuki03.dev@gmail.com
 
-サポートページ: <https://limited293.github.io/apps/arrivibe/support/>
+サポートページ: <https://limited293.github.io/support/>
 
 [Arrivibe トップ]({{ '/apps/arrivibe/' | relative_url }}) | [プライバシー概要]({{ '/privacy/' | relative_url }})
