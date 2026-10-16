@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Support
+title: UtaShirabe Support
 permalink: /support-en.html
+redirect_from: /support-en.md
 ---
 
 Thank you for using UtaShirabe.

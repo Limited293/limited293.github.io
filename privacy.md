@@ -1,7 +1,8 @@
 ---
 layout: page
-title: プライバシーポリシー
+title: UtaShirabe プライバシーポリシー
 permalink: /privacy.html
+redirect_from: /privacy.md
 ---
 
 最終更新日：2026年9月15日

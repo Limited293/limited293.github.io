@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Privacy Policy
+title: UtaShirabe Privacy Policy
 permalink: /privacy-en.html
+redirect_from: /privacy-en.md
 ---
 
 Last updated: September 15, 2026

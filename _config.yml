@@ -6,3 +6,5 @@ url: "https://limited293.github.io"
 baseurl: ""
 author: tsuki03
 email: tsuki03.dev@gmail.com
+plugins:
+  - jekyll-redirect-from
