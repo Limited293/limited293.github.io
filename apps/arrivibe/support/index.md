@@ -6,6 +6,8 @@ permalink: /apps/arrivibe/support/
 
 Arrivibe に関する不具合やご質問は、メールでお問い合わせください。
 
+[English]({{ '/apps/arrivibe/support-en/' | relative_url }})
+
 サポート窓口：<tsuki03.dev@gmail.com>
 
 お問い合わせの際は、可能な範囲で以下を記載してください。

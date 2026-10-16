@@ -6,6 +6,8 @@ permalink: /
 
 tsuki03 が開発するアプリの公式サポートサイトです。
 
+[English]({{ '/en/' | relative_url }})
+
 ## Apps
 
 - [UtaShirabe]({{ '/apps/utashirabe/' | relative_url }}) — カラオケの曲、キー、歌唱履歴をまとめて管理

@@ -6,6 +6,8 @@ permalink: /apps/arrivibe/
 
 Arrivibe は、選んだ目的地への接近を端末の位置情報で判定し、通知またはアラームで知らせる iOS アプリです。
 
+[English]({{ '/apps/arrivibe/en/' | relative_url }})
+
 ## サポートとプライバシー
 
 - [サポート]({{ '/apps/arrivibe/support/' | relative_url }})

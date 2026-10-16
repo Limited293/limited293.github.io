@@ -10,6 +10,8 @@ permalink: /apps/arrivibe/privacy/
 
 この文書は、Arrivibe 1.0の現在の実装に基づきます。
 
+[English]({{ '/apps/arrivibe/privacy-en/' | relative_url }})
+
 ## 1. 適用範囲
 
 本ポリシーは、iOSアプリ「Arrivibe」（以下「本アプリ」）に適用されます。本アプリは、ユーザーが選んだ目的地への接近を端末の位置情報で判定し、通知またはアラームで知らせる機能を提供します。
@@ -78,6 +80,6 @@ permalink: /apps/arrivibe/privacy/
 
 サポート窓口: tsuki03.dev@gmail.com
 
-サポートページ: <https://limited293.github.io/support/>
+サポートページ: <https://limited293.github.io/apps/arrivibe/support/>
 
 [Arrivibe トップ]({{ '/apps/arrivibe/' | relative_url }}) | [プライバシー概要]({{ '/privacy/' | relative_url }})

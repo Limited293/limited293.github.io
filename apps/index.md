@@ -4,6 +4,8 @@ title: アプリ一覧
 permalink: /apps/
 ---
 
+[English]({{ '/apps/en/' | relative_url }})
+
 ## UtaShirabe
 
 カラオケで歌える曲、自分に合うキー、歌唱履歴をまとめて管理するアプリです。
