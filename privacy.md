@@ -1,6 +1,7 @@
 ---
 layout: page
 title: プライバシーポリシー
+permalink: /privacy.html
 ---
 
 最終更新日：2026年9月15日
@@ -90,3 +91,5 @@ Appleが保持するApp Storeの購入記録等は本アプリのデータベー
 開発・運営：tsuki03
 
 お問い合わせ先：tsuki03.dev@gmail.com
+
+[English]({{ '/privacy-en.html' | relative_url }}) | [UtaShirabe トップ]({{ '/apps/utashirabe/' | relative_url }})

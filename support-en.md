@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Support
+permalink: /support-en.html
 ---
 
 Thank you for using UtaShirabe.
@@ -37,6 +38,8 @@ Shared song catalog and pitch-range information is not personal data belonging t
 
 For information about how UtaShirabe handles data, please review the Privacy Policy.
 
-- [Privacy Policy](./privacy-en.md)
+- [Privacy Policy]({{ '/privacy-en.html' | relative_url }})
 
 Developer / Operator: tsuki03
+
+[日本語]({{ '/support.html' | relative_url }}) | [UtaShirabe Home]({{ '/apps/utashirabe/' | relative_url }})

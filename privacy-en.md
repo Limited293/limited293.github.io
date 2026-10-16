@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+permalink: /privacy-en.html
 ---
 
 Last updated: September 15, 2026
@@ -90,3 +91,5 @@ This policy may be revised in response to new features or changes in laws or ext
 Developer / Operator: tsuki03
 
 Contact: tsuki03.dev@gmail.com
+
+[日本語]({{ '/privacy.html' | relative_url }}) | [UtaShirabe Home]({{ '/apps/utashirabe/' | relative_url }})

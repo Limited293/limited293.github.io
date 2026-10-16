@@ -1,6 +1,7 @@
 ---
 layout: page
 title: サポート
+permalink: /support.html
 ---
 
 UtaShirabeをご利用いただきありがとうございます。
@@ -35,6 +36,8 @@ UtaShirabeでは、アプリ内からアカウント削除を開始できる機�
 
 ## プライバシー
 
-UtaShirabeのデータ取扱いについては、[プライバシーポリシー](./privacy.md)をご確認ください。
+UtaShirabeのデータ取扱いについては、[プライバシーポリシー]({{ '/privacy.html' | relative_url }})をご確認ください。
 
 開発・運営：tsuki03
+
+[English]({{ '/support-en.html' | relative_url }}) | [UtaShirabe トップ]({{ '/apps/utashirabe/' | relative_url }})
